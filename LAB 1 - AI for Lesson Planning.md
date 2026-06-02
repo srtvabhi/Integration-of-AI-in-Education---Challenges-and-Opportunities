@@ -3,6 +3,7 @@
 
 ### 🎤 Speaker
 **Mr. Abhishek Srivastava**
+**Email : abhishek@cloudthat.com**
 
 ### 📅 Date & Time
 - **Date:** 03 June 2026 (Wednesday)
