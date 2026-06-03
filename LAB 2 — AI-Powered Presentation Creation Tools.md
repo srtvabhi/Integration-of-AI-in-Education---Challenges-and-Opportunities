@@ -411,63 +411,7 @@ Create a presentation with:
 
 ---
 
-## 🎯 Task 4 — Improve the Presentation
 
-Enhance the generated presentation by:
-
-- Adding diagrams
-- Improving layouts
-- Including examples
-- Adding animations
-- Refining slide content
-
----
-
-## 🎯 Task 5 — Compare AI Tools
-
-Evaluate:
-
-| Feature | Gamma | Gemini | Canva | Tome | Copilot |
-|----------|--------|---------|--------|--------|----------|
-| Ease of Use | | | | | |
-| Content Quality | | | | | |
-| Design Quality | | | | | |
-| Visual Appeal | | | | | |
-| Customization | | | | | |
-
----
-
-# 📋 Lab Deliverables
-
-Each participant should submit:
-
-- 📊 AI-Generated Presentation
-- 🎨 Customized Slide Design
-- 📚 Subject-Specific Content
-- 🖼️ Visual Enhancements
-- 📄 Tool Comparison Report
-
----
-
-# 🎓 Learning Outcomes
-
-After completing this lab, participants will be able to:
-
-✅ Create presentations using AI tools
-
-✅ Generate professional slide decks in minutes
-
-✅ Design visually engaging educational content
-
-✅ Compare multiple AI presentation platforms
-
-✅ Customize AI-generated presentations
-
-✅ Integrate diagrams, flowcharts, and visuals effectively
-
-✅ Improve teaching and presentation efficiency using AI
-
----
 
 # 🌟 End of Lab 2
 
