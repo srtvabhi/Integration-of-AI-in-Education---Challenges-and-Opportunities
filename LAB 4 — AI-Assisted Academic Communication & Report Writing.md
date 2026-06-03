@@ -432,7 +432,54 @@ Maintain a formal university reporting style.
 Notes:
 [Paste any meeting notes, workshop notes, or event observations here]
 ```
+```text
+Sample Raw Data :
 
+# Academic Performance Review Notes
+
+Department: Computer Science & Engineering
+
+Semester: Odd Semester 2025-26
+
+Course Reviewed: Data Structures
+
+Total Students: 120
+
+Performance Summary:
+
+* 28 students scored above 80%.
+* 52 students scored between 60% and 79%.
+* 25 students scored between 40% and 59%.
+* 15 students scored below 40%.
+
+Attendance Analysis:
+
+* Average attendance was 78%.
+* Students with attendance above 85% generally scored higher marks.
+* Students below 60% attendance showed poor performance.
+
+Assessment Findings:
+
+* Students performed well in theoretical concepts.
+* Many students struggled with linked lists and tree traversal problems.
+* Programming assignments had a lower average score compared to written exams.
+* Quiz participation rate was 92%.
+
+Faculty Observations:
+
+* Students require additional practice sessions on problem-solving.
+* More hands-on coding activities should be introduced.
+* Peer-learning groups showed positive impact on student engagement.
+
+Recommendations Discussed:
+
+* Conduct remedial classes for low-performing students.
+* Introduce weekly coding challenges.
+* Increase use of visual learning resources.
+* Monitor attendance more closely.
+
+Meeting Date: December 15, 2025
+```
 ---
 
 ## 📌 Expected Output
