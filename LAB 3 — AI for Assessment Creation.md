@@ -531,39 +531,6 @@ Export and use directly in class.
 
 ---
 
-# 📋 Lab Deliverables
-
-Each participant should submit:
-
-- 📝 AI-Generated MCQs
-- 📚 Descriptive Questions
-- 🏆 Bloom’s Taxonomy Question Bank
-- 📊 Assessment Rubric
-- 💻 Practical Lab Assessment
-- 🛡️ AI-Proof Assessment Strategy
-- 🎯 Quiz for Upcoming Class
-
----
-
-# 🎓 Learning Outcomes
-
-After completing this lab, participants will be able to:
-
-✅ Create assessments using AI tools
-
-✅ Generate MCQs with answer explanations
-
-✅ Design Bloom’s Taxonomy-based question banks
-
-✅ Develop grading rubrics
-
-✅ Create practical and industry-oriented assessments
-
-✅ Design AI-resistant evaluation methods
-
-✅ Improve assessment quality and efficiency
-
----
 
 # 🌟 End of Lab 3
 
